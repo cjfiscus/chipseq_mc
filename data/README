@@ -1,1 +1,12 @@
-placeholder
+## 
+
+# file_list.txt
+List of files to cat prior to analysis
+
+# Sequencing files
+Sample_YQ1L1: Col-0 ChIP-seq
+Sample_YQ1L2: Col-0 Input
+Sample_YQ1L3: YHB ChIP-seq
+Sample_YQ1L4: YHB Input
+Sample_YQ1L5: BCY ChIP-seq
+Sample_YQ1L6: BCY Input
